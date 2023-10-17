@@ -1,0 +1,42 @@
+{
+    "user1": {
+      "companyname": "Samsung",
+      "firstname":"Heeseung",
+      "lastname":"Lee",
+      "position":"CEO",
+      "location":"Seoul, South Korea",
+      "id":1
+    },
+  
+    "user2":  {
+      "companyname": "Hybe",
+      "fullame":"Yang Jungwon",
+      "position":"Director",
+      "location":"Incheon, South Korea",
+      "id":2
+    },
+  
+    "user3":  {
+      "companyname": "Pledis",
+      "fullname":"Boo Seungkwan",
+      "position":"Stakeholder",
+      "location":"Busan, South Korea",
+      "id":3
+    },
+  
+    "user4": {
+      "companyname": "Chinatown",
+      "fullname":"Zhang Lurang",
+      "position":"Manager",
+      "location":"Davao, City",
+      "id":4
+    },
+   
+        "user5": {
+          "companyname": "GMall",
+          "fullname":"Park HyungSik",
+          "position":"President",
+          "location":"Davao, City",
+          "id":5
+          }
+  }
